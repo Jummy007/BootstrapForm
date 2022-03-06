@@ -1,0 +1,57 @@
+.container {
+  background-color: tomato;
+  margin-top: 40px;
+}
+
+.container h2 {
+  text-align: center;
+  color: white;
+}
+
+.container .btn {
+  background-color: #d38e82;
+  color: white;
+  width: 300px;
+}
+
+.container .btn:hover {
+  background-color: grey;
+  color: black;
+}
+
+.container .bttn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 15px;
+}
+
+.container .flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border-radius: 5px;
+  border: 2px solid white;
+  background-color: white;
+  padding: 0 10px;
+}
+
+.container .flex svg {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-item-align: center;
+      align-self: center;
+}
+
+.container .flex input {
+  outline: none;
+  border: none;
+  background: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+/*# sourceMappingURL=styles.css.map */

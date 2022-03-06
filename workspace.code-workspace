@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\..\\Downloads\\frontend-main (4)"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "BootstrapForm"
+  }
+}
