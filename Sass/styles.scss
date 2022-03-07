@@ -1,17 +1,19 @@
 .container {
-  background-color: tomato;
+  background-color: grey;
   margin-top: 40px;
+  display: flex;
+  justify-content: center;
   h2 {
        text-align: center;
   color: white;
 }
 .btn {
-  background-color: rgb(211, 142, 130);
+  background-color: lightblue;
   color: white;
   width: 300px;
 }
 .btn:hover {
-  background-color: grey;
+  background-color: rgb(211, 142, 130);
   color: black;
 }
 .bttn {
