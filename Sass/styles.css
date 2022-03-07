@@ -12,6 +12,7 @@
 .container h2 {
   text-align: center;
   color: white;
+  padding-top: 30px;
 }
 
 .container .btn {
