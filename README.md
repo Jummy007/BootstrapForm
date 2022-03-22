@@ -1,2 +1,3 @@
 # BootstrapForm
-Using bootstrap to create a responsive form.
+Using bootstrap to validate a form.
+Click to view: 
